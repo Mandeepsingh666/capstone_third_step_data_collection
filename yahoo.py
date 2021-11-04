@@ -2,7 +2,7 @@ import time
 import datetime
 import pandas as pd 
 
-# for exampel vti is vanguard tottal index
+# for exampel vti is vanguard total index
 # we can any stock ticker avalable on yhaoo finance  
 spy500 = 'VTI'
 #time.mktime() method of Time module is used to convert a time. struct_time object or a tuple containing 9 elements corresponding to time. struct_time object to time in seconds passed since epoch in local time.
